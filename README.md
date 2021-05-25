@@ -37,7 +37,7 @@ Options:
 ```
 
 
-##Cryptography2
+## Cryptography2
 This project allows you to hash a given file with the MD5 algorithm. The usage is very simple, the program will ask for the path and name of the file and then will show the result hash.
 
 # AES encryption algorithm
